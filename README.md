@@ -9,6 +9,16 @@ Right now, I'm especially focused on building ML models, improving my data story
 
 ---
 
+## 🛠 Tech Stack:
+
+**Languages:** JavaScript, Python, Java, C++, HTML, CSS, SQL, Assembly  
+**Libraries & Frameworks:** React, Node.js, Tailwind CSS, Bootstrap, Matplotlib  
+**Tools & Platforms:** Firebase, Clerk, OpenAI, Vercel, Git, VS Code, Microsoft Excel, Figma, Canva, Virtual Machines  
+**Security & Networking:** Wireshark, John the Ripper, CyberChef, Linux  
+**Certificates:** ML Foundations (Cornell), Cybersecurity (CodePath), Coursera
+
+---
+
 ## 📫 How to Reach Me:
 📧 Email: anouribrahim10@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/anouribrahim](https://www.linkedin.com/in/anouribrahim/)  
