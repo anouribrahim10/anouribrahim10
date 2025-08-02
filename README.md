@@ -9,6 +9,18 @@ Right now, I'm especially focused on building ML models, improving my data story
 
 ---
 
+## 🌟 Featured Project: [Predicting Country Happiness with Machine Learning](https://github.com/anouribrahim10/happiness-predictor/tree/main)
+
+**What We Did:**  
+Used the World Happiness Report dataset to predict happiness scores based on economic and social indicators. Trained and evaluated multiple regression models (Linear Regression, Random Forest, Decision Tree) using Scikit-learn.  
+
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+**Result:**  
+Linear Regression achieved **R² = 0.97** and **RMSE = 0.17**, outperforming all other models. This project highlighted how social support, GDP, and life expectancy are strong predictors of national happiness and offered insights into the intersection of data science and public policy.
+
+---
+
 ## 🛠 Tech Stack:
 
 **Languages:** JavaScript, Python, Java, C++, HTML, CSS, SQL, Assembly  
